@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.014e1d1f.css",
-    "main.js": "/static/js/main.dda5cea3.js",
+    "main.css": "/static/css/main.e107ab08.css",
+    "main.js": "/static/js/main.4095c046.js",
     "static/media/bg.png": "/static/media/bg.8f7e608b2562d370bcaf.png",
     "static/media/logo.png": "/static/media/logo.83eba6bd29e93256dc20.png",
     "static/media/zapus-sans-semibold.ttf": "/static/media/zapus-sans-semibold.a98e8a6a7cbab25c8f8b.ttf",
@@ -10,11 +10,11 @@
     "static/media/buttonIcon.png": "/static/media/buttonIcon.cb2a07111876a1ec7473.png",
     "static/media/starter.png": "/static/media/starter.22f936a31f40da30cd8f.png",
     "index.html": "/index.html",
-    "main.014e1d1f.css.map": "/static/css/main.014e1d1f.css.map",
-    "main.dda5cea3.js.map": "/static/js/main.dda5cea3.js.map"
+    "main.e107ab08.css.map": "/static/css/main.e107ab08.css.map",
+    "main.4095c046.js.map": "/static/js/main.4095c046.js.map"
   },
   "entrypoints": [
-    "static/css/main.014e1d1f.css",
-    "static/js/main.dda5cea3.js"
+    "static/css/main.e107ab08.css",
+    "static/js/main.4095c046.js"
   ]
 }
