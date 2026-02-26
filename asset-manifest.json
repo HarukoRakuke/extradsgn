@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.19321800.css",
-    "main.js": "/static/js/main.a827d185.js",
+    "main.css": "/static/css/main.81568a6f.css",
+    "main.js": "/static/js/main.aa477f04.js",
     "static/media/bg.png": "/static/media/bg.8f7e608b2562d370bcaf.png",
     "static/media/logo.png": "/static/media/logo.83eba6bd29e93256dc20.png",
     "static/media/zapus-sans-semibold.ttf": "/static/media/zapus-sans-semibold.a98e8a6a7cbab25c8f8b.ttf",
@@ -10,11 +10,11 @@
     "static/media/buttonIcon.png": "/static/media/buttonIcon.cb2a07111876a1ec7473.png",
     "static/media/starter.png": "/static/media/starter.22f936a31f40da30cd8f.png",
     "index.html": "/index.html",
-    "main.19321800.css.map": "/static/css/main.19321800.css.map",
-    "main.a827d185.js.map": "/static/js/main.a827d185.js.map"
+    "main.81568a6f.css.map": "/static/css/main.81568a6f.css.map",
+    "main.aa477f04.js.map": "/static/js/main.aa477f04.js.map"
   },
   "entrypoints": [
-    "static/css/main.19321800.css",
-    "static/js/main.a827d185.js"
+    "static/css/main.81568a6f.css",
+    "static/js/main.aa477f04.js"
   ]
 }
